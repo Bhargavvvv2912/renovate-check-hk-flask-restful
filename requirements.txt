@@ -4,7 +4,7 @@ certifi==2018.11.29
 Click==7.0
 Flask==1.0.2
 Flask-Migrate==2.4.0
-Flask-RESTful==0.3.7
+Flask-RESTful==0.3.10
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.3.2
 gevent==1.4.0
