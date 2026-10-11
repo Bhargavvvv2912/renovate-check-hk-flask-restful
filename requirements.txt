@@ -1,5 +1,5 @@
 alembic==1.0.8
-aniso8601==5.1.0
+aniso8601==10.0.1
 certifi==2018.11.29
 Click==7.0
 Flask==1.0.2
